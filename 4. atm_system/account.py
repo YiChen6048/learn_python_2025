@@ -1,3 +1,5 @@
+# Skill practiced: Class Definition, Data Persistence, File I/O, User Input & Output
+
 import datetime
 
 class ATMAccount:

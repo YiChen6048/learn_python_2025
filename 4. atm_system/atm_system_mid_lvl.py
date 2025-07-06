@@ -1,3 +1,6 @@
+# Middle Level ATM System Simulation
+# Skills practiced: Control Structures, Function Definition, User Input & Output, File I/O, Class Definition, Data Persistence
+
 import json
 import os
 from account import ATMAccount

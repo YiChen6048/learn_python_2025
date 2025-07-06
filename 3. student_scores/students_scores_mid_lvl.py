@@ -1,3 +1,6 @@
+# Middle Level Student Scores Analysis
+# Skills practiced: Control Structures, Function Definition, DataFrame Operations, User Input & Output, Average Calculation, File I/O, Data Visualization (Matplotlib and Seaborn)
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns

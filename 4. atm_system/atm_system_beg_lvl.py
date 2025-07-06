@@ -1,4 +1,5 @@
-# ATM system simulation
+# Beginner level ATM system simulation
+# Skills practiced: Control Structures, Function Definition, User Input & Output, Basic Arithmetic Operations
 
 def atm_system():
     balance = 0
